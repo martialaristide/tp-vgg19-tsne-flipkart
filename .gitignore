@@ -1,0 +1,12 @@
+# On ne publie que ce TP : tout est ignoré sauf la liste blanche ci-dessous
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/TP_VGG19_tSNE_Flipkart.ipynb
+!/resultats_vgg19/
+!/Flipkart/
+# Images Flipkart (352 Mo) : trop lourdes pour GitHub
+/Flipkart/Images/
+# Copies de secours créées quand une figure était ouverte ailleurs
+resultats_vgg19/*_[0-9][0-9][0-9][0-9][0-9][0-9].png

@@ -1,0 +1,9 @@
+tensorflow>=2.16
+scikit-learn
+pandas
+numpy
+matplotlib
+pillow
+openpyxl
+xlrd
+jupyter
