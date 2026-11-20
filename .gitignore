@@ -5,8 +5,13 @@
 !/requirements.txt
 !/TP_VGG19_tSNE_Flipkart.ipynb
 !/resultats_vgg19/
+!/TP_Comparaison_Modeles_Flipkart1.ipynb
+!/resultats_comparaison/
 !/Flipkart/
 # Images Flipkart (352 Mo) : trop lourdes pour GitHub
 /Flipkart/Images/
 # Copies de secours créées quand une figure était ouverte ailleurs
 resultats_vgg19/*_[0-9][0-9][0-9][0-9][0-9][0-9].png
+# Caractéristiques extraites par modèle (~45 Mo au total) : recalculables, non publiées
+resultats_comparaison/carac_*.npz
+resultats_comparaison/*_[0-9][0-9][0-9][0-9][0-9][0-9].png
